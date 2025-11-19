@@ -1,0 +1,10 @@
+task assembleDebug {
+    doLast {
+        println "Stub assembleDebug executed (no-op)."
+    }
+}
+task assembleRelease {
+    doLast {
+        println "Stub assembleRelease executed (no-op)."
+    }
+}

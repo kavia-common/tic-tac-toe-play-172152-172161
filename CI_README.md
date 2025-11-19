@@ -1,0 +1,1 @@
+This project runs the React Native (Expo) app in web preview mode for CI (port 3000). Native Android (Gradle) builds are intentionally not part of this environment. There is no android/ directory or gradlew in this container. Use `npm start` in tic_tac_toe_frontend to run the app for previews.

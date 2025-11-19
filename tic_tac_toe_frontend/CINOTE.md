@@ -1,0 +1,1 @@
+This container is configured for Expo Web preview on port 3000. Native Android/iOS builds are not executed in this environment, and Gradle/Xcode tooling is not present. Use `npm start` (which runs `expo start --web`) for the preview. For native builds, run Expo prebuild and platform builds in a proper environment.
